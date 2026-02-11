@@ -23,6 +23,7 @@ This profile is where I share my academic projects, experiments, and professiona
 * 🎓 Certified **Associate Data Scientist** (BNSP).
 * 🎓 Certified **HISTORICAL DATA INTEGRATION (SQL)** (DQLab ACADEMY).
 * 🎓 Certified **R FUNDAMENTAL DATA SCIENCE (R)** (DQLab ACADEMY).
+* 🎓 Certified **PROBLEM SOLVING (BASIC)** (HackerRank).
 
 ---
 
