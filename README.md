@@ -10,8 +10,8 @@ This profile is where I share my academic projects, experiments, and professiona
 
 ### 🛠 Tools & Tech
 
-* **Languages:** PHP, JavaScript, Golang (Go), HTML, CSS, Python, R
-* **Frameworks:** Laravel, Tailwind CSS, Bootstrap, Flask
+* **Languages:** PHP, JavaScript, Golang (Go), TypeScript, HTML, CSS, Python, R
+* **Frameworks:** Laravel, Tailwind CSS, Bootstrap, NestJS, Flask
 * **Databases:** MySQL, MongoDB
 * **Tools:** Git, Postman, VS Code, Figma (for UI Design), Spreadsheet
 * **Focus:** Fullstack Development, RESTful APIs, Data Analysis
